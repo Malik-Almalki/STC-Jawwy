@@ -1,6 +1,4 @@
-# STC-Jawwy
-
-##STC Jawwy Analysis with SQL
+# STC Jawwy Analysis with SQL
 
 * Data rows: 1,048,575
 
