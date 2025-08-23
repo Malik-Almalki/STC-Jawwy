@@ -4,7 +4,7 @@
 
 * Tools: Google Colab, SQLite (SQL), Pandas
 
-* File type: XLSB (loaded using pyxlsb)
+* File type: XLSB 
 
 
 #
