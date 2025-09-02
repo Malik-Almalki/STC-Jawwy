@@ -10,4 +10,4 @@
 #
 ## Website
 
-[Malik Almalki | مالك المالكي](https://malik.com.sa/)
+[Malik Almalki ](https://malik.com.sa/)
